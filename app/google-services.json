@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "322099432890",
+    "firebase_url": "https://aplicacionedgar-4bb6e-default-rtdb.firebaseio.com",
+    "project_id": "aplicacionedgar-4bb6e",
+    "storage_bucket": "aplicacionedgar-4bb6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322099432890:android:d72ee8db6c37025a7ce183",
+        "android_client_info": {
+          "package_name": "com.example.appproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322099432890-uf5n855b871cjet4lqrvrhjvr83ef3go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYupvQsMr-2nAUbgY2FXj1Cm_G6pcsOnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322099432890-uf5n855b871cjet4lqrvrhjvr83ef3go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
